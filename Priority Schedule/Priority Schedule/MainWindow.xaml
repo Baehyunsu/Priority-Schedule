@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <StackPanel x:Name="stackpanel" Margin="24,55,55.4,66.8">
+            <TextBlock Text="해야할 일"></TextBlock>
+        </StackPanel>
+        <Button x:Name="button" Content="Add" HorizontalAlignment="Left" Margin="212,25,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="62,21,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
     </Grid>
 </Window>

@@ -1,1 +1,15 @@
 c:\users\bae hyunsu\documents\visual studio 2015\Projects\Priority Schedule\Priority Schedule\bin\Debug\Priority Schedule.exe.config
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\bin\Debug\Priority Schedule.exe.config
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\bin\Debug\Priority Schedule.exe
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\bin\Debug\Priority Schedule.pdb
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\Priority Schedule.csprojResolveAssemblyReference.cache
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\MainWindow.g.cs
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\App.g.cs
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\Priority Schedule_MarkupCompile.cache
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\Priority Schedule_MarkupCompile.lref
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\MainWindow.baml
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\Priority Schedule.g.resources
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\Priority_Schedule.Properties.Resources.resources
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\Priority Schedule.csproj.GenerateResource.Cache
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\Priority Schedule.exe
+C:\Users\Bae Hyunsu\Desktop\Project\Priority Schedule\Priority Schedule\Priority Schedule\obj\Debug\Priority Schedule.pdb
